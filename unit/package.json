@@ -1,0 +1,19 @@
+{
+  "name": "unit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test_mocha.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "chai-as-promised": "^5.2.0",
+    "chai-http": "^1.0.0",
+    "chai-json-schema": "^1.2.0",
+    "mocha": "^2.3.4",
+    "request": "^2.67.0"
+  }
+}
